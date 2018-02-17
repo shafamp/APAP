@@ -1,3 +1,4 @@
 Nama 	: Shafa Maharani Pradinar
 NPM  	: 1606955031
 Jurusan : SI Ekstensi 2016
+Gender	: Perempuan
