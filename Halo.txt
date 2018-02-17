@@ -1,2 +1,3 @@
-Nama : Shafa Maharani Pradinar
-NPM  : 1606955031
+Nama 	: Shafa Maharani Pradinar
+NPM  	: 1606955031
+Jurusan : SI Ekstensi
